@@ -1,0 +1,78 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "caculadora_imc",
+            "cwd": "modulo_4\\caculadora_imc",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_app",
+            "cwd": "modulo_4\\meu_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_app_ex",
+            "cwd": "modulo_4\\meu_app_ex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_app_orientacao_obj",
+            "cwd": "modulo_4\\meu_app_orientacao_obj",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_app_testes",
+            "cwd": "modulo_4\\meu_app_testes",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_primeiro_app",
+            "cwd": "modulo_4\\meu_primeiro_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "meu_primeiro_app (profile mode)",
+            "cwd": "modulo_4\\meu_primeiro_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "meu_primeiro_app (release mode)",
+            "cwd": "modulo_4\\meu_primeiro_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "trilhaapp",
+            "cwd": "Modulo_5\\trilhaapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "trilhaapp (profile mode)",
+            "cwd": "Modulo_5\\trilhaapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "trilhaapp (release mode)",
+            "cwd": "Modulo_5\\trilhaapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
